@@ -43,9 +43,8 @@ namespace WindowsLogger
                 catch (Exception ex)
                 {
                     Console.WriteLine("Errror");
-                }
-                
-            }            
+                }                
+            }           
             return jsonObjectList;
         }
     }
